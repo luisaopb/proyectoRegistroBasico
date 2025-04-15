@@ -91,6 +91,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </select>
         <input class="buttonSubmit" type="submit" value="Registrarse">
     </form>
+    <p>¿Ya tienes cuenta? <a href="login.php">Inicia sesión aquí</a></p>
     </div>
 
     <!--Incluimos el javascript para el formulario-->
